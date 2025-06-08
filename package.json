@@ -14,5 +14,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.11.1"
+  "packageManager": "pnpm@10.11.1",
+  "dependencies": {
+    "@gaurab-ui/button": "link:C:/Users/paudy/AppData/Local/pnpm/global/5/node_modules/@gaurab-ui/button",
+    "@gaurab-ui/modal": "link:C:/Users/paudy/AppData/Local/pnpm/global/5/node_modules/@gaurab-ui/modal"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "name": "@gaurab-ui/button",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "index.jsx",
   "peerDependencies": {
     "react": "^18.0.0"
   }
