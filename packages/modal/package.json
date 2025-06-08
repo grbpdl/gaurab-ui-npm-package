@@ -1,0 +1,9 @@
+{
+  "name": "@gaurab-ui/modal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "@gaurab-ui/button": "workspace:*"
+  }
+}
