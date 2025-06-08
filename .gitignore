@@ -1,0 +1,33 @@
+# Node
+node_modules/
+.pnpm/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Mac system files
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Output from test coverage tools
+coverage/
+
+# Misc
+*.tgz
+*.bak
+*.tmp
